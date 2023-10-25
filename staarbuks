@@ -1,0 +1,16 @@
+<html>
+    <h1 style="font-size:50px;color: white;background-color:green; text-align:center">STARBUCKS<br/>
+        <img src="https://www.galeriabaltycka.pl/fileadmin/user_upload/GLOBAL/brand_stores/logos/starbucks.jpg" height="150px"/>
+     </h1>
+<p style="text-align:center">
+  <a href="https://www.starbucks.com/">Детальніше про нас</a>
+<b style="text-align:center">!Акція!</b>
+<br>
+<i>знижка 50%  на 4 товари
+</i>
+</p>
+<p>
+  <img src="https://stories.starbucks.com/uploads/2021/02/SBX20200225-SpringBeverages-FeatureHorizontal-1440x700.jpg" height="350px"/>
+</p>
+
+</html>
